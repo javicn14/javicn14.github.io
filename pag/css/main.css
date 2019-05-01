@@ -31,7 +31,6 @@
 @import url("font-awesome/css/font-awesome.min.css");
 @import url("micons/micons.css");
 
-
 /* ===================================================================
  * 02. base style overrides - (_document-setup)
  *
@@ -803,7 +802,7 @@ header {
 }
 header .row {
 	height: auto;
-	max-width: 1290px;
+	max-width: 1300px;
 	position: relative;
 }
 
@@ -822,10 +821,10 @@ header .logo a {
 	padding: 0;
 	outline: 0;
 	border: none;
-	width: 97px;
-	height: 84px;
+	width: 200px;
+	height: 200px;
 	background: url("../images/logo.png") no-repeat center;
-	background-size: 97px 84px;
+	background-size: 200px 200px;
 	font: 0/0 a;
 	text-shadow: none;
 	color: transparent;
@@ -870,7 +869,7 @@ header .social-links ul li a:visited {
 
 header .social-links ul li a:hover,
 header .social-links ul li a:focus {
-	color: #057f78;
+	color: #2E64FE;
 }
 
 /* ------------------------------------------------------------------- 
@@ -883,9 +882,9 @@ header .social-links ul li a:focus {
 		margin-top: 42px;
 	}
 	header .logo a {
-		width: 90px;
-		height: 78px;
-		background-size: 90px 78px;
+		width: 200px;
+		height: 200px;
+		background-size: 200px 200px;
 	}
 	header .social-links {
 		right: 18px;
@@ -898,9 +897,9 @@ header .social-links ul li a:focus {
 		margin-top: 36px;
 	}
 	header .logo a {
-		width: 80px;
-		height: 70px;
-		background-size: 80px 70px;
+		width: 200px;
+		height: 200px;
+		background-size: 200px 200px;
 	}
 	header .social-links {
 		right: 45px;
@@ -913,9 +912,9 @@ header .social-links ul li a:focus {
 		margin-top: 30px;
 	}
 	header .logo a {
-		width: 70px;
-		height: 61px;
-		background-size: 70px 61px;
+		width: 200px;
+		height: 200px;
+		background-size: 200px 200px;
 	}
 	header .social-links {
 		right: 41px;
@@ -1074,7 +1073,7 @@ header .social-links ul li a:focus {
 	color: rgba(255, 255, 255, 0.3);
 	font-family: "roboto-regular", sans-serif;
 	font-size: 1.8rem;
-	max-width: 400px;
+	max-width: 1000px;
 }
 
 .scroll-icon {
