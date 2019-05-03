@@ -600,11 +600,11 @@ text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #
 ---------------------------------*/
 .business-talking{
 	background:url(../img/blockchain.jpg) top center;
-	background-size:cover;
+	background-size:center repeat;
 	padding:60px 0 10px;
 	text-align:center;
-	width:1500px;
-	height:850px;
+	width:auto;
+	height:550px;
 }
 .business-talking h2{
 	font-family: 'Montserrat', sans-serif;
