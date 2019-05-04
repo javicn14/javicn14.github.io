@@ -138,7 +138,7 @@ p.lead {
 	font-family: "roboto-light", serif;
 	font-size: 2rem;
 	line-height: 1.8;
-	color: #4d4d4d;
+	color: #808080;
 }
 @media only screen and (max-width:768px) {
 	p.lead {
@@ -1070,7 +1070,7 @@ header .social-links ul li a:focus {
 	position: relative;
 }
 .main-content-tablecell p {
-	color: rgba(255, 255, 255, 0.3);
+	color: rgba(62, 230, 230, 0.7);
 	font-family: "roboto-regular", sans-serif;
 	font-size: 1.8rem;
 	max-width: 1000px;
